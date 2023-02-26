@@ -1,6 +1,6 @@
 # NLW-eSports 
 
-![preview](https://github.com/ezim10g/lembretes/blob/master/print.png)
+![preview](print.png)
 
 > Aprimorando habilidades
 
