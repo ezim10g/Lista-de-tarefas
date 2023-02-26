@@ -6,7 +6,7 @@
 
 
 
-[Clique aqui para acessar](https://ezim10g.github.io/lembretes)
+[Clique aqui para acessar](https://hub.eziore.com.br/lista-de-tarefas)
 
 ## Tecnogias
 
