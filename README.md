@@ -16,5 +16,5 @@ Projeto construído no evento Next Level week da Rockeseat.
 - Javascript
 
 ## Contato
-
-ezim10g@gmail.com
+E-mail: ezim10g@gmail.com
+Linkedin: https://www.linkedin.com/in/eziovieira/
